@@ -1,10 +1,23 @@
-# Smart_Parking_System
-Smart Parking System 🚗📡💻
-A comprehensive Smart Parking System that integrates both hardware 🔧⚙️ and software 🖥️🛠️ to revolutionize parking management 🚦. Our innovative solution combines cutting-edge technology 🌟 with seamless user experience 👌. Here's what we built:
-- Hardware: IoT sensors and devices 📟🔌 to detect parking availability and guide drivers 🚘 to free spots 🅿️.
-- Software: A user-friendly mobile app 📱 and web platform 🌐 for real-time updates, bookings 🗓️, and payment processing 💳.
-- Automation: Smart barriers 🚧 and RFID tags 🏷️ for smooth entry and exit 🚗⬆️⬇️.
-- Efficiency: Reduces search time 🕒, saves fuel ⛽, and optimizes parking space usage 🛑✅.
-- Sustainability: Designed to minimize environmental impact 🌍 by reducing congestion 🔄.
+#FPGA
+#VHDL
 
-This system is a one-stop solution for smart, efficient, and eco-friendly parking! 🚀✨
+🚗 Smart Parking System 🅿️
+A smart garage solution that automates car counting and gate control using FPGA (implemented in VHDL with Quartus Prime⚡).
+
+🌟 Features:
+      🔄 Automatic Gate Control: Gate opens via push button (simulating an operator)
+      🔍 Car Detection: IR sensor detects vehicles passing through
+      🧮 Car Counter: Tracks total cars entering (displayed on 7-segment display)
+      ⚙️ Actuator Integration: Gate closes automatically after car entry
+
+🛠️ Hardware & Tools
+      FPGA Board 
+      7-Segment Display (car count visualization)
+      IR Sensor (car detection)
+      Servo Motor/Actuator (gate control)
+      Quartus Prime (VHDL design & synthesis)
+
+💡 Why It’s Cool?
+      Real-world automation with minimal human intervention.
+      Scalable for multi-level parking systems.
+      Low-power FPGA implementation.
